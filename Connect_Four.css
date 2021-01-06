@@ -1,0 +1,14 @@
+.jumbotron{
+  background-color: #abcdef;
+}
+.circle{
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background: gray;
+  border: 3px solid black;
+  display: inline-block;
+}
+.container{
+  background-color: cyan;
+}
